@@ -1,0 +1,61 @@
+{
+    "zkSyncEraMainnet": [
+        "optimism",
+        "avalanche",
+        "arbitrumNova",
+        "binanceSmartChain",
+        "polygonZkEVM",
+        "tenet"
+    ],
+    "optimism": [
+        "zkSyncEraMainnet",
+        "avalanche",
+        "arbitrumNova",
+        "polygonZkEVM",
+        "tenet",
+        "Moonbeam",
+        "Moonriver",
+        "harmonyOne"
+    ],
+    "tenet": [
+        "optimism"
+    ],
+    "avalanche": [
+        "zkSyncEraMainnet",
+        "polygonZkEVM",
+        "harmonyOne",
+        "moonbeam",
+        "moonriver",
+        "optimism"
+    ],
+    "arbitrumNova": [
+        "optimism",
+        "zkSyncEraMainnet"
+    ],
+    "polygonZkEVM": [
+        "optimism",
+        "avalanche",
+        "zkSyncEraMainnet"
+    ],
+    "harmonyOne": [
+        "avalanche",
+        "optimism"
+    ],
+    "binanceSmartChain": [
+        "zkSyncEraMainnet"
+    ],
+    "moonbeam": [
+        "optimism",
+        "avalanche"
+    ],
+    "moonriver": [
+        "optimism",
+        "avalanche"
+    ],
+    "celo": [
+        "optimism"
+    ],
+    "polygon": [
+        "polygonZkEVM"
+    ]
+}

@@ -1,0 +1,18 @@
+#sourceChain {
+    width: 300px;
+    height: 75px;
+    margin-top: 10px;
+    border-radius: 5px;
+    border: 1px solid #323095;
+    font-family: 'Text Me One', sans-serif;
+    font-size: 22px;
+
+    @media (min-width: 768px) {
+        margin-top: 0;
+    }
+
+    @media (max-width: 768px) {
+        margin-top: 20px;
+    }
+
+}

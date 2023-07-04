@@ -1,0 +1,182 @@
+{
+    "arbitrumNova": {
+        "chainId": "0xa4ba",
+        "chainName": "Arbitrum Nova",
+        "nativeCurrency": {
+            "name": "Arbitrum ETH",
+            "symbol": "AETH",
+            "decimals": 18
+        },
+        "rpcUrls": [
+            "https://arbitrum-nova.public.blastapi.io"
+        ],
+        "blockExplorerUrls": [
+            "https://nova.arbiscan.io/"
+        ]
+    },
+    "polygon": {
+        "chainId": "0x89",
+        "chainName": "Polygon Mainnet",
+        "nativeCurrency": {
+            "name": "Polygon",
+            "symbol": "MATIC",
+            "decimals": 18
+        },
+        "rpcUrls": [
+            "https://polygon.llamarpc.com"
+        ],
+        "blockExplorerUrls": [
+            "https://polygonscan.com//"
+        ]
+    },
+    "binanceSmartChain": {
+        "chainId": "0x38",
+        "chainName": "Binance SmartChain Mainnet",
+        "nativeCurrency": {
+            "name": "Binance Coin",
+            "symbol": "BNB",
+            "decimals": 18
+        },
+        "rpcUrls": [
+            "https://bsc-dataseed.binance.org/"
+        ],
+        "blockExplorerUrls": [
+            "https://bscscan.com/"
+        ]
+    },
+    "optimism": {
+        "chainId": "0xa",
+        "chainName": "Optimism",
+        "nativeCurrency": {
+            "name": "Optimism ETH",
+            "symbol": "ETH",
+            "decimals": 18
+        },
+        "rpcUrls": [
+            "https://mainnet.optimism.io"
+        ],
+        "blockExplorerUrls": [
+            "https://optimistic.etherscan.io/"
+        ]
+    },
+    "avalanche": {
+        "chainId": "0xa86a",
+        "chainName": "Avalanche C Chain",
+        "nativeCurrency": {
+            "name": "Avalanche",
+            "symbol": "AVAX",
+            "decimals": 18
+        },
+        "rpcUrls": [
+            "https://avalanche-c-chain.publicnode.com"
+        ],
+        "blockExplorerUrls": [
+            "https://snowtrace.io/"
+        ]
+    },
+    "polygonZkEVM": {
+        "chainId": "0x44d",
+        "chainName": "Polygon zkEVM",
+        "nativeCurrency": {
+            "name": "Polygon zkEVM ETH",
+            "symbol": "ETH",
+            "decimals": 18
+        },
+        "rpcUrls": [
+            "https://zkevm-rpc.com"
+        ],
+        "blockExplorerUrls": [
+            "https://zkevm.polygonscan.com/"
+        ]
+    },
+    "tenet": {
+        "chainId": "0x617",
+        "chainName": "Tenet",
+        "nativeCurrency": {
+            "name": "TENET",
+            "symbol": "TENET",
+            "decimals": 18
+        },
+        "rpcUrls": [
+            "https://rpc.tenet.org"
+        ],
+        "blockExplorerUrls": [
+            "https://tenetscan.io/"
+        ]
+    },
+    "harmonyOne": {
+        "chainId": "0x63564c40",
+        "chainName": "Harmony One Mainnet",
+        "nativeCurrency": {
+            "name": "Harmony One",
+            "symbol": "ONE",
+            "decimals": 18
+        },
+        "rpcUrls": [
+            "https://api.s0.t.hmny.io"
+        ],
+        "blockExplorerUrls": [
+            "https://explorer.harmony.one/"
+        ]
+    },
+    "zkSyncEraMainnet": {
+        "chainId": "0x144",
+        "chainName": "zkSync Era Mainnet",
+        "nativeCurrency": {
+            "name": "Ethereum",
+            "symbol": "ETH",
+            "decimals": 18
+        },
+        "rpcUrls": [
+            "https://mainnet.era.zksync.io"
+        ],
+        "blockExplorerUrls": [
+            "https://explorer.zksync.io/"
+        ]
+    },
+    "moonbeam": {
+        "chainId": "0x504",
+        "chainName": "Moonbeam",
+        "nativeCurrency": {
+            "name": "Moonbeam",
+            "symbol": "GLMR",
+            "decimals": 18
+        },
+        "rpcUrls": [
+            "https://rpc.api.moonbeam.network"
+        ],
+        "blockExplorerUrls": [
+            "https://moonscan.io/"
+        ]
+    },
+    "moonriver": {
+        "chainId": "0x505",
+        "chainName": "Moonriver",
+        "nativeCurrency": {
+            "name": "Moonriver",
+            "symbol": "MOVR",
+            "decimals": 18
+        },
+        "rpcUrls": [
+            "https://moonriver.public.blastapi.io"
+        ],
+        "blockExplorerUrls": [
+            "https://moonriver.moonscan.io/"
+        ]
+    },
+    "celo": {
+        "chainId": "0xa4ec",
+        "chainName": "Celo",
+        "nativeCurrency": {
+            "name": "Celo",
+            "symbol": "CELO",
+            "decimals": 18
+        },
+        "rpcUrls": [
+            "https://celo.api.onfinality.io/public"
+        ],
+        "blockExplorerUrls": [
+            "https://explorer.celo.org/mainnet/"
+        ]
+    }
+}
