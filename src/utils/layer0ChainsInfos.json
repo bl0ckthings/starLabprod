@@ -1,0 +1,151 @@
+[
+    {
+        "chainName": "zkSyncEraMainnet",
+        "contractAddress": "0xE6aD5bc8675d393761510cE8af8a101dE93bf369",
+        "chainId": "165",
+        "endpoint": "0x9b896c0e23220469C7AE69cb4BbAE391eAa4C8da",
+        "chainDisplay": "zkSync Era Mainnet",
+        "image": "https://bafybeicmqjakkxg2nojg2acsbd2htlgtdh62ue3hqtlsxauvaq2vinpfly.ipfs.nftstorage.link/zksync.svg",
+        "mintCost": "0.00035",
+        "currency": "ETH"
+    },
+    {
+        "chainName": "linea",
+        "contractAddress": "0x3c5b31b158dCaBA76Df46Bd853C8Af3cCf0F0022",
+        "chainId": "183",
+        "endpoint": "0xb6319cC6c8c27A8F5dAF0dD3DF91EA35C4720dd7",
+        "chainDisplay": "Linea Mainnet",
+        "image": "https://bafybeico3w45vh43zcemk2hgsygvxtbbbqayxtqleje3pg7ohtbd2grtnq.ipfs.nftstorage.link/LineaLog.svg",
+        "mintCost": "0.0004",
+        "currency": "ETH"
+    },
+    {
+        "chainName": "base",
+        "contractAddress": "0x9e3f31957bdE7b1A446013957097d2535DeF32d4",
+        "chainId": "184",
+        "endpoint": "0xb6319cC6c8c27A8F5dAF0dD3DF91EA35C4720dd7",
+        "chainDisplay": "Base",
+        "image": "https://bafybeigjyr2m4hfupyioukoqwtmyj2eij35p4wriwcos6k3vbyydtq26em.ipfs.nftstorage.link/base-logo.svg",
+        "mintCost": "0.0004",
+        "currency": "ETH"
+    },
+    {
+        "chainName": "mantle",
+        "contractAddress": "0x3c5b31b158dCaBA76Df46Bd853C8Af3cCf0F0022",
+        "chainId": "181",
+        "endpoint": "0xb6319cC6c8c27A8F5dAF0dD3DF91EA35C4720dd7",
+        "chainDisplay": "Mantle",
+        "image": "https://bafybeidajs7vj2kwrn2boof4got5pohhtgfvxyhq7vvgxugxg23pih725i.ipfs.nftstorage.link/mantle-logo.svg",
+        "mintCost": "1.3",
+        "currency": "MNT"
+    },
+    {
+        "chainName": "polygonZkEVM",
+        "contractAddress": "0x3c5b31b158dCaBA76Df46Bd853C8Af3cCf0F0022",
+        "chainId": "158",
+        "endpoint": "0x9740FF91F1985D8d2B71494aE1A2f723bb3Ed9E4",
+        "chainDisplay": "Polygon zkEVM",
+        "image": "https://bafybeicmqjakkxg2nojg2acsbd2htlgtdh62ue3hqtlsxauvaq2vinpfly.ipfs.nftstorage.link/polygon-zkevm.svg",
+        "mintCost": "0.0003",
+        "currency": "ETH"
+    },
+    {
+        "chainName": "optimism",
+        "contractAddress": "0x3c5b31b158dcaba76df46bd853c8af3ccf0f0022",
+        "chainId": "111",
+        "endpoint": "0x3c2269811836af69497E5F486A85D7316753cf62",
+        "chainDisplay": "Optimism",
+        "image": "https://bafybeicmqjakkxg2nojg2acsbd2htlgtdh62ue3hqtlsxauvaq2vinpfly.ipfs.nftstorage.link/optimism.svg",
+        "mintCost": "0.00035",
+        "currency": "ETH"
+    },
+    {
+        "chainName": "arbitrumNova",
+        "contractAddress": "0x9e3f31957bde7b1a446013957097d2535def32d4",
+        "chainId": "175",
+        "endpoint": "0x4EE2F9B7cf3A68966c370F3eb2C16613d3235245",
+        "chainDisplay": "Arbitrum Nova",
+        "image": "https://bafybeifyyhjpwgi5htvzzvql6u4shsj6bfdrc5xji5bez2yodack4visp4.ipfs.nftstorage.link/arbitrum-nova.svg",
+        "mintCost": "0.0003",
+        "currency": "ETH"
+    },
+    {
+        "chainName": "polygon",
+        "contractAddress": "0x3c5b31b158dCaBA76Df46Bd853C8Af3cCf0F0022",
+        "chainId": "109",
+        "endpoint": "0x3c2269811836af69497E5F486A85D7316753cf62",
+        "chainDisplay": "Polygon Mainnet",
+        "image": "https://bafybeib6a36j3p4v6pcgzxn2v266ro7x3gczh5htrujrg62ufa64p4sylu.ipfs.nftstorage.link/Polygon%20MATIC%20Icon.svg",
+        "mintCost": "1",
+        "currency": "ETH"
+    },
+    {
+        "chainName": "binanceSmartChain",
+        "contractAddress": "0x3c5b31b158dCaBA76Df46Bd853C8Af3cCf0F0022",
+        "chainId": "102",
+        "endpoint": "0x3c2269811836af69497E5F486A85D7316753cf62",
+        "chainDisplay": "BSC",
+        "image": "https://bafybeicmqjakkxg2nojg2acsbd2htlgtdh62ue3hqtlsxauvaq2vinpfly.ipfs.nftstorage.link/bsc.svg",
+        "mintCost": "0.003",
+        "currency": "BNB"
+    },
+    {
+        "chainName": "avalanche",
+        "contractAddress": "0x3c5b31b158dCaBA76Df46Bd853C8Af3cCf0F0022",
+        "chainId": "106",
+        "endpoint": "0x3c2269811836af69497E5F486A85D7316753cf62",
+        "chainDisplay": "Avalanche",
+        "image": "https://bafybeifyyhjpwgi5htvzzvql6u4shsj6bfdrc5xji5bez2yodack4visp4.ipfs.nftstorage.link/avalancheC.svg",
+        "mintCost": "0.0599",
+        "currency": "AVAX"
+    },
+    {
+        "chainName": "arbitrum",
+        "contractAddress": "0xEC39F79b862d937d9CA86f7f1B83c9B2BCE33E91",
+        "chainId": "110",
+        "endpoint": "0x3c2269811836af69497E5F486A85D7316753cf62",
+        "chainDisplay": "Arbitrum One",
+        "image": "https://bafybeietejmwk4hbayrnl5w7guier6koeoktjab3yj3dwadory3guifwyi.ipfs.nftstorage.link/arbitrum-arb-logo.svg",
+        "mintCost": "0.00035",
+        "currency": "ETH"
+    },
+    {
+        "chainName": "moonbeam",
+        "contractAddress": "0x3c5b31b158dCaBA76Df46Bd853C8Af3cCf0F0022",
+        "chainId": "122",
+        "endpoint": "0x9740FF91F1985D8d2B71494aE1A2f723bb3Ed9E4",
+        "chainDisplay": "Moonbeam",
+        "image": "https://bafybeicv3pvkohdemnppqlnexfqfps6jwjanihl73a6b7b7pyxoaewxuma.ipfs.nftstorage.link/moonbeam-logo.svg",
+        "mintCost": "3",
+        "currency": "GLMR"
+    },
+    {
+        "chainName": "moonriver",
+        "contractAddress": "0x3c5b31b158dCaBA76Df46Bd853C8Af3cCf0F0022",
+        "chainId": "143",
+        "endpoint": "0x7004396C99D5690da76A7C59057C5f3A53e01704",
+        "chainDisplay": "Moonriver",
+        "image": "https://bafybeicv3pvkohdemnppqlnexfqfps6jwjanihl73a6b7b7pyxoaewxuma.ipfs.nftstorage.link/Moonriver-MOVR.svg",
+        "mintCost": "0.15",
+        "currency": "MOVR"
+    },
+    {
+        "chainName": "fantom",
+        "contractAddress": "0x0Af8268fC2228bA32bB5892dE534eE24E316a66A",
+        "chainId": "112",
+        "endpoint": "0xb6319cC6c8c27A8F5dAF0dD3DF91EA35C4720dd7",
+        "chainDisplay": "Fantom",
+        "image": "https://bafybeicul34xxfw4u3iqpo4n6nuflrtrzm3ylukr77d2joggljvrulreiy.ipfs.nftstorage.link/fantom-ftm-seeklogo.com.svg",
+        "mintCost": "2.5",
+        "currency": "FTM"
+    },
+    {
+        "chainName": "moreIncoming",
+        "contractAddress": "0x06B03575b0579e7B00c4FDfbf0ECd661d12Ec25C",
+        "chainId": "176",
+        "endpoint": "0xa3a8e19253Ab400acDac1cB0eA36B88664D8DedF",
+        "chainDisplay": "More Chains incoming...",
+        "image": "https://bafybeibjvvx45hsalje6zpir5kftle64cqlwegzqnosci5oobtageacn6u.ipfs.nftstorage.link/logo.svg",
+        "mintCost": "0.0003"
+    }
+]

@@ -1,0 +1,125 @@
+{
+    "zkSyncEraMainnet": [
+        "avalanche",
+        "arbitrumNova",
+        "binanceSmartChain",
+        "polygonZkEVM",
+        "polygon",
+        "fantom"
+    ],
+    "optimism": [
+        "avalanche",
+        "arbitrumNova",
+        "polygonZkEVM",
+        "tenet",
+        "harmonyOne",
+        "binanceSmartChain",
+        "fantom",
+        "polygon",
+        "moonbeam",
+        "arbitrum"
+    ],
+    "tenet": [
+        "optimism"
+    ],
+    "avalanche": [
+        "polygonZkEVM",
+        "harmonyOne",
+        "optimism",
+        "binanceSmartChain",
+        "polygon",
+        "arbitrum",
+        "fantom",
+        "moonbeam",
+        "linea"
+    ],
+    "arbitrumNova": [
+        "optimism",
+        "binanceSmartChain"
+    ],
+    "polygonZkEVM": [
+        "optimism",
+        "avalanche",
+        "binanceSmartChain",
+        "linea"
+    ],
+    "harmonyOne": [
+        "avalanche",
+        "optimism"
+    ],
+    "binanceSmartChain": [
+        "arbitrumNova",
+        "optimism",
+        "avalanche",
+        "polygon",
+        "polygonZkEVM",
+        "arbitrum",
+        "moonbeam",
+        "moonriver",
+        "linea"
+    ],
+    "moonbeam": [
+        "optimism",
+        "avalanche",
+        "binanceSmartChain",
+        "fantom",
+        "polygon",
+        "arbitrum"
+    ],
+    "moonriver": [
+        "optimism",
+        "avalanche"
+    ],
+    "celo": [
+        "optimism"
+    ],
+    "polygon": [
+        "polygonZkEVM",
+        "binanceSmartChain",
+        "fantom",
+        "moonbeam",
+        "linea"
+    ],
+    "arbitrum": [
+        "binanceSmartChain",
+        "moonbeam",
+        "avalanche",
+        "polygon",
+        "optimism",
+        "fantom",
+        "linea"
+    ],
+    "fantom": [
+        "optimism",
+        "arbitrum",
+        "binanceSmartChain",
+        "avalanche",
+        "polygon",
+        "linea"
+    ],
+    "linea": [
+        "binanceSmartChain",
+        "polygonZkEVM",
+        "polygon",
+        "fantom"
+    ],
+    "base": [
+        "avalanche",
+        "optimism",
+        "polygonZkEVM",
+        "polygon",
+        "binanceSmartChain",
+        "fantom",
+        "arbitrum",
+        "linea"
+    ],
+    "mantle": [
+        "linea",
+        "base",
+        "polygonZkEVM",
+        "polygon",
+        "avalanche",
+        "arbitrum",
+        "fantom"
+    ]
+}

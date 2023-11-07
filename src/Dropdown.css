@@ -1,0 +1,108 @@
+.dropdown {
+    position: relative;
+    display: inline-block;
+}
+
+.dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #f1f1f1;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
+    z-index: 1;
+
+
+}
+
+.dropdown-item {
+    cursor: pointer;
+
+}
+
+/* .dropdown-content.show {
+
+    display: flex;
+    flex-direction: column;
+    width: 300px;
+    margin-top: 10px;
+    border-radius: 5px;
+    border: 1px solid #323095;
+    font-family: 'Text Me One', sans-serif;
+    font-size: 22px;
+    text-align: center;
+    padding: 5px;
+    gap: 3px;
+    background-color: #323095;
+
+
+
+    @media (max-width: 768px) {
+        width: fit-content;
+    }
+} */
+
+.dropdown-content.show {
+    display: flex;
+    flex-direction: column;
+    width: 300px;
+    margin-top: 10px;
+    border-radius: 5px;
+    border: 1px solid #323095;
+    font-family: 'Text Me One', sans-serif;
+    font-size: 22px;
+    text-align: center;
+    max-height: 300px;
+    overflow-y: scroll;
+    padding: 5px;
+    gap: 3px;
+    background-color: #323095;
+
+
+    @media (max-width: 768px) {
+        margin-top: 20px;
+    }
+
+
+}
+
+.arrowLogo {
+    cursor: pointer;
+    height: 30px;
+    width: 30px;
+}
+
+.chainLogo {
+    height: 50px;
+    width: 50px;
+}
+
+.chainContainer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 30px;
+    font-weight: 900;
+    cursor: pointer;
+}
+
+.chainContainerdropdown {
+
+    border-radius: 5px;
+    display: flex;
+    padding: 10px;
+    justify-content: space-between;
+    gap: 30px;
+    background-color: rgba(255, 255, 255, 0.674);
+    cursor: pointer;
+}
+
+.blur-out {
+    filter: blur(2px);
+
+    pointer-events: none;
+}
+
+.chainImage {
+    height: 50px;
+    width: 50px;
+}
